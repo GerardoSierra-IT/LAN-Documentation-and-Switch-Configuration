@@ -6,13 +6,15 @@ Hello everyone, in this lab I created a simple Local Area Network (LAN) network 
 
 # Table of Contents
 
-- [Mock Meeting: Post-Initial Discovery Scan (Server Team)](#step-8-mock-meeting-post-initial-discovery-scan-server-team)
-- [Mock CAB Meeting: Implementing Remediations](#step-9-mock-cab-meeting-implementing-remediations)
-- [Remediation Round 1: Outdated Wireshark Removal](#remediation-round-1-outdated-wireshark-removal)
-- [Remediation Round 2: Insecure Protocols & Ciphers](#remediation-round-2-insecure-protocols--ciphers)
-- [Remediation Round 3: Guest Account Group Membership](#remediation-round-3-guest-account-group-membership)
-- [Remediation Round 4: Windows OS Updates](#remediation-round-4-windows-os-updates)
-- [First Cycle Remediation Effort Summary](#first-cycle-remediation-effort-summary)
+- [Step 1](#step-8-mock-meeting-post-initial-discovery-scan-server-team)
+- [Step 2](#step-9-mock-cab-meeting-implementing-remediations)
+- [Step 3](#remediation-round-1-outdated-wireshark-removal)
+- [Step 4](#remediation-round-2-insecure-protocols--ciphers)
+- [Step 5](#remediation-round-3-guest-account-group-membership)
+- [Step 6](#remediation-round-4-windows-os-updates)
+- [Step 7](#f)
+- [Step 8](#f)
+- [Summary/Take Aways](#first-cycle-remediation-effort-summary)
 
 ---
 
@@ -45,8 +47,10 @@ Hello everyone, in this lab I created a simple Local Area Network (LAN) network 
 
 ---
 
+![image alt]()
 
 ---
+Summary/ Take Away
 
 
 ---
