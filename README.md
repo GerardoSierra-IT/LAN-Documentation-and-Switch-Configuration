@@ -9,7 +9,7 @@
 - [Vulnerability Management Policy Draft Creation](#vulnerability-management-policy-draft-creation)
 - [Mock Meeting: Policy Buy-In (Stakeholders)](#step-2-mock-meeting-policy-buy-in-stakeholders)
 - [Policy Finalization and Senior Leadership Sign-Off](#step-3-policy-finalization-and-senior-leadership-sign-off)
-- [Mock Meeting: Initial Scan Permission (Server Team)](#step-4-mock-meeting-initial-scan-permission-server-team)
+- [Mock Meeting: Initial Scan Permission (Server Team)](#(https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/main/configuring%20vlans%20on%20ports.jpg))
 - [Initial Scan of Server Team Assets](#step-5-initial-scan-of-server-team-assets)
 - [Vulnerability Assessment and Prioritization](#step-6-vulnerability-assessment-and-prioritization)
 - [Distributing Remediations to Remediation Teams](#step-7-distributing-remediations-to-remediation-teams)
