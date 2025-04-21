@@ -25,23 +25,23 @@ Hello everyone, in this lab I created a simple Local Area Network (LAN) network 
 
 ---
 
-![image alt]()
+![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/configuring%20vlans%20on%20ports.jpg)
 
 ---
 
-![image alt]()
+![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/forgotten%20configurations%20for%20SW1.jpg)
 
 ---
 
-![image alt]()
+![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/router%20configurations.jpg)
 
 ---
 
-![image alt]()
+![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/trunk%20configurations.jpg)
 
 ---
 
-![image alt]()
+![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/forgotten%20configurations%20for%20SW1.jpg)
 
 ---
 
