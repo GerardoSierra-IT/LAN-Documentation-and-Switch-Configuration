@@ -2,7 +2,7 @@
 
 
 ---
-Hello everyone, in this lab I created a simple L (LAN) network that uses (ROS). Hopefully you all find this lab insightful!
+Hello everyone, in this lab I created a simple Local Area Network (LAN) network that uses Router On a Stick"(ROAS). Hopefully you all find this lab insightful!
 
 # Table of Contents
 
