@@ -38,7 +38,7 @@ Next, we configure each port their designated vlan. This essentially assigns the
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/configuring%20vlans%20on%20ports.jpg)
 
 ---
-This step then picks up
+This step then continues the process of assigning the role / purpose of in this case port Fast ethernet 0/5. To allowing both vlan 10 and 20. Remeber to do this on the other switch as well.
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/forgotten%20configurations%20for%20SW1.jpg)
 
 ---
