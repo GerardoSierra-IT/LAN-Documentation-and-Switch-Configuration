@@ -58,10 +58,12 @@ This
 Here we assign a static IP address to each PC. You can use any private IP address for this, in this lab I just used 192.168.10.10, 192.168.20.10, And 192.168.10.11, 192.168.20.11 for the other switch (both with a /24 or 255.255.255.0 subnet mask).
 
 PC > Desktop > IP Configuration
-PC > Desktop > Command Prompt
+
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/fb53b3a2e7982a11b747ddfeb447bcd106765953/pc%20step1.jpg)
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/fb53b3a2e7982a11b747ddfeb447bcd106765953/pc%20step%202.jpg)
+PC > Desktop > Command Prompt
+
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/29fca487f205bdb180c38c64fc1acacf449fe23f/successful%20pings.jpg)
 ---
 
