@@ -62,10 +62,10 @@ PC > Desktop > Command Prompt
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/fb53b3a2e7982a11b747ddfeb447bcd106765953/pc%20step1.jpg)
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/fb53b3a2e7982a11b747ddfeb447bcd106765953/pc%20step%202.jpg)
-![image alt]()
+![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/29fca487f205bdb180c38c64fc1acacf449fe23f/successful%20pings.jpg)
 ---
 
 Summary/ Take Away
 
-
+We were able to create a small yet effective network, which would allow all end points (PCs in this case) to communicate with each other. 
 ---
