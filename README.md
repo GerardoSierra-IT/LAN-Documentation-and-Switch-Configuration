@@ -50,6 +50,7 @@ This step then picks up
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/trunk%20configurations.jpg)
 
 ---
+On this step, is the step that will allow the same vlans that are trunked to go from one switch to the other. So plesae make sure you configure the same way on the ports that are used to connect thses two switches.
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/forgotten%20configurations%20for%20SW1.jpg)
 
