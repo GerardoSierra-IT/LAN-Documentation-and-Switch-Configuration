@@ -16,9 +16,18 @@ Hello everyone, in this lab I created a simple Local Area Network (LAN) network 
 - [Step 8](#f)
 - [Summary/Take Aways](#first-cycle-remediation-effort-summary)
 
+
+# Technology Utilized
+- Packet Tracer (or any other simulation tool EveNG or )
+- Azure Virtual Machines (Nessus scan engine + scan targets)
+
 ---
 
-
+This step focues on getting all of the networking, end devices and media needed.
+Which in this case it is:
+- 4 PCs
+- 2 2960 Switches
+- 1 2901 Router
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/8570563d5ebda850c463f4b8ef4514a0a9276d47/LAN%20before%20it%20was%20all%20up.jpg)
 
 ---
