@@ -18,8 +18,7 @@ Hello everyone, in this lab I created a simple Local Area Network (LAN) network 
 
 
 # Technology Utilized
-- Packet Tracer (or any other simulation tool EveNG or )
-- Azure Virtual Machines (Nessus scan engine + scan targets)
+- Packet Tracer or any other simulation tool EVE-NG or GNS3 (I just went with Packet Tracer for simplicity and it's free)
 
 ---
 
@@ -31,11 +30,11 @@ Which in this case it is:
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/8570563d5ebda850c463f4b8ef4514a0a9276d47/LAN%20before%20it%20was%20all%20up.jpg)
 
 ---
-
+In this step  we begin basic configuration such as hostname, creating the 2 vlans and 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/501f17ffe725f18158f2ccfe4bbb135abcf0894b/Switch%20configurations.jpg)
 
 ---
-
+Next, we
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/configuring%20vlans%20on%20ports.jpg)
 
 ---
