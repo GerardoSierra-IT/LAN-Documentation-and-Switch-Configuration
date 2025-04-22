@@ -6,14 +6,14 @@ Hello everyone, in this lab I created a simple Local Area Network (LAN) network 
 
 <h2>Table of Contents</h2> 
 
-- [Step 1]Step 1 – Network Topology Setup
-- [Step 2]Step 2 – Basic Switch Configuration
-- [Step 3]Step 3 – VLAN Assignment to Ports
-- [Step 4]Step 4 – Switch to Router Port Configuration (Trunking)
-- [Step 5]Step 5 – Router Subinterface Configuration (ROAS)
-- [Step 6]Step 6 – Assigning Static IPs to PCs
-- [Step 7]Step 7 – Connectivity Testing
-- [Summary/Take Aways](#first-cycle-remediation-effort-summary)
+- Step 1 – Network Topology Setup
+- Step 2 – Basic Switch Configuration
+- Step 3 – VLAN Assignment to Ports
+- Step 4 – Switch to Router Port Configuration (Trunking)
+- Step 5 – Router Subinterface Configuration (ROAS)
+- Step 6 – Assigning Static IPs to PCs
+- Step 7 – Connectivity Testing
+- Summary/Take Aways
 
 
 <h3>Technology Utilized</h3>
