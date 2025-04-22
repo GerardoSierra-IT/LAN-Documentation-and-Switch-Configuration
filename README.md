@@ -30,15 +30,15 @@ Which in this case it is:
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/8570563d5ebda850c463f4b8ef4514a0a9276d47/LAN%20before%20it%20was%20all%20up.jpg)
 
 ---
-In this step  we begin basic configuration such as hostname, creating the 2 vlans and 
+In this step  we begin basic configuration such as hostname, creating the 2 vlans and . Other than the hostname, both switches should be configured this same here.
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/501f17ffe725f18158f2ccfe4bbb135abcf0894b/Switch%20configurations.jpg)
 
 ---
-Next, we
+Next, we configure each port their designated vlan. This essentially assigns the role/ purpose for that port. Similar to the previous step, make sure that both switches have the same configurations. As we wouldnt want to run into any issues because one switch knows of a vlan but is unkown to the other switch.
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/configuring%20vlans%20on%20ports.jpg)
 
 ---
-
+This step then picks up
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/forgotten%20configurations%20for%20SW1.jpg)
 
 ---
