@@ -93,5 +93,5 @@ PC > Desktop > Command Prompt
 
 <h2> Summary/ Take Away </h2>
 
-#We were able to create a small yet effective network, which would allow all end points (PCs in this case) to communicate with each other. 
+<h4>We successfully created a small but effective LAN that allows end devices across different VLANs to communicate using a router-on-a-stick configuration. This kind of setup is common in enterprise environments for network segmentation and security. </h4> 
 ---
