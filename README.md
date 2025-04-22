@@ -45,18 +45,21 @@ This step then continues the process of assigning the role / purpose of in this 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/forgotten%20configurations%20for%20SW1.jpg)
 
 ---
+This should be the last configurations on done on the router. At this
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/router%20configurations.jpg)
 
 ---
 This 
+
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/trunk%20configurations.jpg)
 
 ---
+Here we assign a static IP address to each PC. You can use any private IP address for this, in this lab I just used 192.168.10.10, 192.168.20.10, And 192.168.10.11, and 192.168.20.11 for the other switch (both with a /24 or 255.255.255.0 subnet mask).
 
-
-
+![image alt]()
 ---
+
 
 ![image alt]()
 
