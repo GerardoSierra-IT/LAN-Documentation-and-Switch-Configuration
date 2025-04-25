@@ -34,14 +34,38 @@ Which in this case it is:
 ---
 <h2>Step 2 – Basic Switch Configuration</h2>
 In this step  we begin basic configuration such as hostname, creating the 2 vlans and . Other than the hostname, both switches should be configured this same here.
+- enable (or 'en' which is short for enable) 
+- configure terminal (or ' config t' which is the short version)
+- vlan 10
+- name HR
+- vlan 20
+- name IT
+And we lets rename our switch, which is doable in this mode as well
+- hostname SW1 (and SW2 for switch 2)
+
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/501f17ffe725f18158f2ccfe4bbb135abcf0894b/Switch%20configurations.jpg)
 
 ---
 <h2>Step 3 – VLAN Assignment to Ports</h2>
 Next, we move into a 2 part step. Where we configure each port their designated vlan. This essentially assigns the role/ purpose for that port. Similar to the previous step, make sure that both switches have the same configurations. As we wouldnt want to run into any issues because one switch knows of a vlan but is unkown to the other switch.
+- enable
+- configure terminal
+- interface Fastethernet0/1 (or you could also do int f0/1)
+- switchport mode access
+- switchport access vlan 10
+- exit
+- interface Fastethernet0/2
+- switchport mode access
+- switchport access vlan 20
+- exit
 
 The second part to this step involves configuring the ports used to connect with the other switch (In my case it is port Fastethernet0/24 on SW1 and port Fastethernet0/24 on SW2)
+- interface Fastethernet0/24
+- switchport mode trunk
+- switchport trunk allowed vlan 10,20
+- exit
+
 
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/trunk%20configurations.jpg)
