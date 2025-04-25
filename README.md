@@ -22,17 +22,18 @@ Hello everyone, in this lab I created a simple Local Area Network (LAN) network 
 I used Packet Tracer for simplicity—and because it's free.
 
 ---
-<h2>Step 1 – Network Topology Setup</h2>
+###<h2>Step 1 – Network Topology Setup</h2>
 This step focues on getting all of the networking, end devices and media needed.
 Which in this case it is:
 - 4 PCs
 - 2 2960 Switches
 - 1 2901 Router
 
+
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/8570563d5ebda850c463f4b8ef4514a0a9276d47/LAN%20before%20it%20was%20all%20up.jpg)
 
 ---
-<h2>Step 2 – Basic Switch Configuration</h2>
+###<h2>Step 2 – Basic Switch Configuration</h2>
 In this step  we begin basic configuration such as hostname, creating the 2 vlans and . Other than the hostname, both switches should be configured this same here.
 - enable (or 'en' which is short for enable) 
 - configure terminal (or ' config t' which is the short version)
@@ -47,7 +48,7 @@ And we lets rename our switch, which is doable in this mode as well
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/501f17ffe725f18158f2ccfe4bbb135abcf0894b/Switch%20configurations.jpg)
 
 ---
-<h2>Step 3 – VLAN Assignment to Ports</h2>
+###<h2>Step 3 – VLAN Assignment to Ports</h2>
 Next, we move into a 2 part step. Where we configure each port their designated vlan. This essentially assigns the role/ purpose for that port. Similar to the previous step, make sure that both switches have the same configurations. As we wouldnt want to run into any issues because one switch knows of a vlan but is unkown to the other switch.
 - enable
 - configure terminal
