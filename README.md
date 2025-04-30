@@ -86,23 +86,17 @@ This step invloves configurations done on the router. Where we allow different d
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/router%20configurations.jpg)
 
 ---
-<h2>Step 6 - Assigning Static IPs to PCs</h2>
+###<h2>Step 6 - Assigning Static IPs to PCs</h2>
 Here we assign a static IP address to each PC. You can use any private IP address for this, in this lab I used the 192.168.0.0
 Assign a static IP address to each PC. You can use any private IP range, but for this lab I used:
 
-VLAN 10:
-
-PC1: 192.168.10.10/24
-
-PC2: 192.168.10.11/24
-
-VLAN 20:
-
-PC3: 192.168.20.10/24
-
-PC4: 192.168.20.11/24
-
-PC > Desktop > IP Configuration
+- VLAN 10:
+- PC1: 192.168.10.10/24
+- PC2: 192.168.10.11/24
+- VLAN 20:
+- PC3: 192.168.20.10/24
+- PC4: 192.168.20.11/24
+- PC > Desktop > IP Configuration
 
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/fb53b3a2e7982a11b747ddfeb447bcd106765953/pc%20step1.jpg)
