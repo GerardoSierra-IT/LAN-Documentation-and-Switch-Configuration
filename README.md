@@ -73,15 +73,28 @@ The second part to this step involves configuring the ports used to connect with
 
 
 ---
-<h2>Step 4 – Switch to Router Port Configuration (Trunking)</h2>
+###<h2>Step 4 – Switch to Router Port Configuration (Trunking)</h2>
 This step then continues the process of assigning the role / purpose of in this case port Fastethernet 0/5 (this is my connection to my router). To allowing both vlan 10 and 20.
+- Enable
+- Configure Terminal (Config t)
+- Interface FastEthernet0/5
+- Switchport mode trunk
+- Switchport trunk allowed vlan 10, 20
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/forgotten%20configurations%20for%20SW1.jpg)
 
 
 ---
-<h2>Step 5 - Router Subinterface Configuration (ROAS)</h2>
-This step invloves configurations done on the router. Where we allow different devices on different vlans to be able to communicate with each other.
+###<h2>Step 5 - Router Subinterface Configuration (ROAS)</h2>
+This step invloves configurations done on the router. Where we allow different devices on different vlans to be able to communicate with each other. This is also where we introduce subinterfaces.
+- Enable
+- Configure Terminal (Config t)
+- Interface GigaEthernet0/0.10
+- Encapsulation dot1Q 10
+- Ip address 192.168.10.1 255.255.255.0 (This is the IP address I chose for the , but you can chance this)
+- Interface GigaEthernet0/0.20
+- Encapsulation dot1Q 20
+- Ip address 192.168.20.1 255.255.255.0
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/b5685843d71be0b0bf13e8a3eae384267d1b9fac/router%20configurations.jpg)
 
@@ -109,6 +122,8 @@ PC > Desktop > Command Prompt
 
 ![image alt](https://github.com/GerardoSierra-IT/LAN-Documentation-and-Switch-Configuration/blob/29fca487f205bdb180c38c64fc1acacf449fe23f/successful%20pings.jpg)
 ---
+
+
 
 <h2> Summary/ Take Away </h2>
 
